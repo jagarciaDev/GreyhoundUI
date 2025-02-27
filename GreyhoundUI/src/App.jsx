@@ -4,7 +4,7 @@ function App() {
   return (
     <div style={{ padding: '20px' }}>
       <h1>GreyhoundUI</h1>
-      <Button onClick={() => alert('¡Botón clicado!')}>Haz clic aquí</Button>
+      <Button>Botón prueba</Button>
     </div>
   );
 }
